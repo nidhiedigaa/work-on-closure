@@ -1,0 +1,2 @@
+closure is a behaviour in javascript where the inner functions will have access to the outer function even after the outer function has completed its execution 
+we know that in javascript if variables are declared inside the block we cannot access it from outside the block but in closure we can access those variables from outside the block by using the inner function which still has access to the outer function properties
